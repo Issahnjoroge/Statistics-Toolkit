@@ -48,4 +48,4 @@ The generated report includes:
 - Statistics after removing detected outliers
 - Outlier fences and the identified outlier records
 - NumPy verification results
-- Unit-test summary
+- Unit test summary
